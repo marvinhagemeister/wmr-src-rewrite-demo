@@ -1,0 +1,16 @@
+{
+  "name": "wmr-src-cwd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wmr --public src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.35.2",
+    "wmr": "^3.3.1"
+  }
+}
